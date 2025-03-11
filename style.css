@@ -1,0 +1,175 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    background-color: black;
+}
+
+.head a {
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 0px 4px 4px;
+}
+
+.head {
+    display: flex;
+
+}
+
+.box4 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box4 div {
+    width: 368px;
+    height: 332px;
+    background-color: #7B2525;
+    color: white;
+    text-align: center;
+}
+
+.box4 h3 {
+    color: white;
+    text-shadow: 2px 3px 4px;
+    font-size: 30px;
+}
+
+.box4 p {
+    font-size: 40px;
+}
+
+.maincard{
+    background-image: url(./Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 594px;
+}
+
+.cards div {
+    width: 237px;
+    height: 209px;
+    background-color: #32FB00;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div div {
+    width: 237px;
+    height: 209px;
+    background-color: red;
+    position: absolute;
+    top: 300px;
+    left: 246px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    text-shadow: 5px 5px 5px white;
+
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FF0606;
+    font-size: 24px;
+
+}
+.div,.divv,.divvv p{
+    display: flex;
+    align-items: flex-end;
+}
+.divv div {
+    width: 411px;
+    height: 209px;
+    border-radius: 100px;
+    background-color: red;
+    position: absolute;
+    left: 580px;
+    top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+    text-shadow: 5px 5px 5px white;
+}
+
+.divv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #FF0606;
+    top: 652px;
+
+}
+
+.divvv div {
+    width: 237px;
+    height: 209px;
+    background-color: #FF0606;
+    position: absolute;
+    left: 1050px;
+    top: 300px;
+    font-size: 24px;
+    color: white;
+    text-shadow: 5px 5px 5px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divvv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FF0606;
+    font-size: 24px;
+
+}
+
+.boxes div {
+    width: 368px;
+    height: 332px;
+    background-color: #7B2525;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 300px;
+}
+
+footer img {
+    width: 81px;
+    height: 78px;
+}.cards{
+margin-top: 200px;
+}
+footer div{
+    display: flex;justify-content: space-around;
+    text-decoration: none;
+    width: 500px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    text-shadow: 0px 4px 4px;
+}
